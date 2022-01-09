@@ -139,6 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Algorithm_10828.cpp" />
+    <ClCompile Include="Algorithm_13910.cpp" />
     <ClCompile Include="Algorithm_16943.cpp" />
     <ClCompile Include="Algorithm_1052.cpp" />
     <ClCompile Include="Algorithm_13903.cpp" />
